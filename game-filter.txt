@@ -1,0 +1,22 @@
+! Title: Reward-Safe AdGuard Filter
+! Description: Allows ads and tracking only where rewards or benefits are provided (e.g. in games or manga apps).
+! Version: 2025.06.26
+
+! === このフィルターの目的 ===
+! ゲームや漫画アプリで「動画広告を見て報酬を得る」などの
+! 機能が正しく動作するように、必要な広告や通信を許可し、
+! それ以外の不要な広告・トラッカーのみをブロックします。
+
+! === shironekoproject ===
+@@||applovin.com^
+@@||init.supersonicads.com^
+@@||mediation.unity3d.com^
+@@||unityads.unity3d.com^
+@@||cdn.iads.unity3d.com^
+@@||pangolin16.sgsnssdk.com^
+@@||i-adq.mediation.unity3d.com^
+@@||sf16-static.i18n-pglstatp.com^
+# @@||tnc16-alisg.isnssdk.com^
+@@||gw.mediation.unity3d.com^
+@@||ad2.fivecdm.com^
+# @@||er.fivecdm.com^
