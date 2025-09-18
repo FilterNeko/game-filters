@@ -1,6 +1,6 @@
 ! Title: Reward-Safe AdGuard Filter
 ! Description: Allows ads and tracking only where rewards or benefits are provided (e.g. in games or manga apps).
-! Version: 2025.09.10
+! Version: 2025.09.19
 
 ! === このフィルターの目的 ===
 ! ゲームや漫画アプリで「動画広告を見て報酬を得る」などの
