@@ -8,12 +8,16 @@
 ! それ以外の不要な広告・トラッカーのみをブロックします。
 
 ! === shironekoproject ===
+! 2025/09/19
+@@||unity3d.com^
+@@||cdn-f.adsmoloco.com^
+
 ! 2025/08/24
 # @@||googleads.g.doubleclick.net^
-@@||ae.iads.unity3d.com^
+# @@||ae.iads.unity3d.com^
 @@||er.fivecdm.com^
 @@||adchk.fivecdm.com^
-@@||html-uap.iads.unity3d.com^
+# @@||html-uap.iads.unity3d.com^
 @@||commvod.kwcdn.com^
 
 ! 2025/06/26
